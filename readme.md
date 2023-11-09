@@ -1,4 +1,4 @@
-### Oh hey 👋
+### Hi 👋
 
 - X: [@andrerkoenig](https://x.com/andrerkoenig)
 - Site: [https://andrekoenig.de](https://andrekoenig.de)
