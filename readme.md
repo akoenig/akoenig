@@ -9,3 +9,4 @@
 - 🤖 Cave - Sand🥊ed environments for AI coding agents (currently in private beta; will be open source soon).
 - 🫰🏽 [Generous](https://generous.builders) - Platform that helps builders create a sustainable lifestyle.
 - 🛫 [Runway](https://github.com/akoenig/runway) - A native macOS menu bar app that monitors GitHub Actions workflow.
+- 🔁 [filedrop](https://github.com/akoenig/filedrop) - A simple file sharing service for AI agents.
