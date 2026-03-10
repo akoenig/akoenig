@@ -1,5 +1,7 @@
 ### Hi, I'm André 👋
 
+I press keys on my keyboard (mostly) in the correct order to make the machine do what I want.
+
 - X: [@ItsAndreKoenig](https://x.com/ItsAndreKoenig)
 - Website: [https://andrekoenig.com](https://andrekoenig.com)
 - Company: [Open Formation GmbH](https://openformation.io)
