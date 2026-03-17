@@ -12,4 +12,4 @@ I press keys on my keyboard (mostly) in the correct order to make the machine do
 - 🫰🏽 [Generous](https://generous.builders) - Platform that helps builders create a sustainable lifestyle.
 - 🛫 [Runway](https://github.com/akoenig/runway) - A native macOS menu bar app that monitors GitHub Actions workflow.
 - 🔁 [filedrop](https://github.com/akoenig/filedrop) - A simple file sharing service for AI agents.
-- 🎛️ [proxctl](https://github.com/akoenig/proxctl) - A lightweight CLI for interacting with a [Proxmox](https://www.proxmox.com/en/) instance / cluster
+- 🎛️ [proxctl](https://github.com/akoenig/proxctl) - A lightweight CLI for interacting with a [Proxmox](https://www.proxmox.com/en/) instance / cluster.
