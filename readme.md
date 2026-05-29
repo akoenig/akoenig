@@ -9,7 +9,7 @@ My current work is centered around reducing friction: making it easier for human
 Right now, I’m working on:
 
 - a **headless harness** for running and observing AI-agent workflows in a predictable way
-- a **credential broker** that gives agents scoped, auditable access to the systems they need without spreading long-lived secrets
+- **Usher**, a self-hosted credential broker that gives agents scoped, auditable access to the systems they need without spreading long-lived secrets
 - **Loom**, a personal data lake platform for collecting, connecting, and making personal context useful across tools and agents
 
 The common thread is infrastructure that gets out of the way: fewer manual handoffs, fewer brittle integrations, and better defaults for people building with agents.
@@ -17,6 +17,7 @@ The common thread is infrastructure that gets out of the way: fewer manual hando
 #### Current Projects
 
 - 🤖 [Cave](https://withcave.ai) - A Cloud-first Agent Orchestrator that you can deploy on your own infrastructure (currently in private beta; will be open source soon).
+- 🚪 [Usher](https://github.com/akoenig/usher) - A self-hosted credential broker for authenticated HTTP calls that keeps long-lived secrets out of prompts, logs, scripts, and model context.
 - 🫰🏽 [Generous](https://generous.builders) - Platform that helps builders create a sustainable lifestyle.
 - 🛫 [Runway](https://github.com/akoenig/runway) - A native macOS menu bar app that monitors GitHub Actions workflow.
 - 🔁 [filedrop](https://github.com/akoenig/filedrop) - A simple file sharing service for AI agents.
