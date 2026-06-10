@@ -8,7 +8,7 @@ My current work is centered around reducing friction: making it easier for human
 
 Right now, I’m working on:
 
-- a **headless harness** for running and observing AI-agent workflows in a predictable way
+- **Kung-Fu**, a headless harness for running and observing AI-agent workflows in a predictable way
 - **Usher**, a self-hosted credential broker that gives agents scoped, auditable access to the systems they need without spreading long-lived secrets
 - **Loom**, a personal data lake platform for collecting, connecting, and making personal context useful across tools and agents
 
