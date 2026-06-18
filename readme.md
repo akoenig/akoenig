@@ -8,6 +8,7 @@ My current work is centered around reducing friction: making it easier for human
 
 Right now, I’m working on:
 
+- **OpenTunnel**, ephemeral, end-to-end encrypted command tunnels for running AI-agent tool calls on any machine without SSH, accounts, or standing access
 - **Kung-Fu**, a headless harness for running and observing AI-agent workflows in a predictable way
 - **Usher**, a self-hosted credential broker that gives agents scoped, auditable access to the systems they need without spreading long-lived secrets
 - **Loom**, a personal data lake platform for collecting, connecting, and making personal context useful across tools and agents
@@ -16,7 +17,8 @@ The common thread is infrastructure that gets out of the way: fewer manual hando
 
 #### Current Projects
 
-- 🤖 [Cave](https://withcave.ai) - A Cloud-first Agent Orchestrator that you can deploy on your own infrastructure (currently in private beta; will be open source soon).
+- 🕳️ [OpenTunnel](https://opentunnel.sh) - Ephemeral, end-to-end encrypted command tunnels for AI agents. No SSH, no accounts, no standing access.
+- 🤖 [Cave](https://withcave.ai) - A Cloud-first Agent Orchestrator that you can deploy on your own infrastructure.
 - 🚪 [Usher](https://github.com/akoenig/usher) - A self-hosted credential broker for authenticated HTTP calls that keeps long-lived secrets out of prompts, logs, scripts, and model context.
 - 🫰🏽 [Generous](https://generous.builders) - Platform that helps builders create a sustainable lifestyle.
 - 🛫 [Runway](https://github.com/akoenig/runway) - A native macOS menu bar app that monitors GitHub Actions workflow.
