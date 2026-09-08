@@ -18,6 +18,7 @@ The common thread is infrastructure that gets out of the way: fewer manual hando
 #### Current Projects
 
 - 🕳️ [OpenTunnel](https://opentunnel.sh) - Ephemeral, end-to-end encrypted command tunnels for AI agents. No SSH, no accounts, no standing access.
+- 📡 [Radar](https://github.com/akoenig/radar) - A keyboard-first feed reader for you and your agents. Same subscriptions, same search, same triage, over the UI or over MCP.
 - 🤖 [Cave](https://withcave.ai) - A Cloud-first Agent Orchestrator that you can deploy on your own infrastructure.
 - 🚪 [Usher](https://github.com/akoenig/usher) - A self-hosted credential broker for authenticated HTTP calls that keeps long-lived secrets out of prompts, logs, scripts, and model context.
 - 🫰🏽 [Generous](https://generous.builders) - Platform that helps builders create a sustainable lifestyle.
